@@ -21,3 +21,4 @@ if __name__ == '__main__':
     model_trainer = Model_Trainer() # initilise the class
 
     model_trainer.initiate_model_training(train_arr, test_arr)
+    
